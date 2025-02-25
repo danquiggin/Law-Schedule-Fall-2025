@@ -123,7 +123,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -156,7 +155,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -173,7 +171,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -190,7 +187,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -207,7 +203,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -541,7 +536,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -971,7 +965,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1152,7 +1145,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1286,7 +1278,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "04:00 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1319,7 +1310,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1370,7 +1360,6 @@ const scheduleData = {
             "startTime": "03:30 PM",
             "endTime": "06:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1484,7 +1473,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1601,7 +1589,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1684,7 +1671,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {

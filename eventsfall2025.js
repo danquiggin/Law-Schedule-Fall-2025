@@ -123,7 +123,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -156,7 +155,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -173,7 +171,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -190,7 +187,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -207,7 +203,6 @@ const scheduleData = {
             "startTime": "03:15 PM",
             "endTime": "05:35 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -272,7 +267,6 @@ const scheduleData = {
             "startTime": "10:00 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -305,7 +299,6 @@ const scheduleData = {
             "startTime": "10:00 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -322,7 +315,6 @@ const scheduleData = {
             "startTime": "10:00 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -339,7 +331,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -372,7 +363,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -389,7 +379,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -406,7 +395,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -439,7 +427,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -456,7 +443,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -473,7 +459,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -490,7 +475,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "03:05 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -507,7 +491,6 @@ const scheduleData = {
             "startTime": "09:00 AM",
             "endTime": "10:15 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -524,7 +507,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -541,7 +523,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -637,17 +618,16 @@ const scheduleData = {
         },
         {
             "title": "The Client Relationship (see Note X in Overview Tab)",
-            "startTime": "04:10 PM",
-            "endTime": "05:25 PM",
+            "startTime": "02:45 PM",
+            "endTime": "05:30 PM",
             "daysOfWeek": [
-                1,
                 3
             ],
             "extendedProps": {
                 "instructor": "Cunningham, C",
-                "room": "245",
+                "room": "342",
                 "modality": "F2F",
-                "capacity": "25",
+                "capacity": "60",
                 "year": "",
                 "credit": "3"
             }
@@ -657,7 +637,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -691,7 +670,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:25 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -741,7 +719,6 @@ const scheduleData = {
             "startTime": "10:30 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -774,7 +751,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:25 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -807,7 +783,6 @@ const scheduleData = {
             "startTime": "10:30 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -840,7 +815,6 @@ const scheduleData = {
             "startTime": "10:30 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -918,6 +892,22 @@ const scheduleData = {
             }
         },
         {
+            "title": "WomenLead",
+            "startTime": "04:30 PM",
+            "endTime": "07:00 PM",
+            "daysOfWeek": [
+                2
+            ],
+            "extendedProps": {
+                "instructor": "Byrd, E",
+                "room": "347",
+                "modality": "F2F",
+                "capacity": "25",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
             "title": "Family Law",
             "startTime": "02:45 PM",
             "endTime": "04:00 PM",
@@ -939,7 +929,6 @@ const scheduleData = {
             "startTime": "02:45 PM",
             "endTime": "04:00 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -956,7 +945,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1029,23 +1017,6 @@ const scheduleData = {
                 "room": "345",
                 "modality": "F2F",
                 "capacity": "25",
-                "year": "",
-                "credit": "3"
-            }
-        },
-        {
-            "title": "Intellectual Property Survey",
-            "startTime": "09:00 AM",
-            "endTime": "10:15 AM",
-            "daysOfWeek": [
-                1,
-                3
-            ],
-            "extendedProps": {
-                "instructor": "Varadarajan, D",
-                "room": "246",
-                "modality": "F2F",
-                "capacity": "60",
                 "year": "",
                 "credit": "3"
             }
@@ -1154,7 +1125,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1210,7 +1180,7 @@ const scheduleData = {
             ],
             "extendedProps": {
                 "instructor": "",
-                "room": "342",
+                "room": "242",
                 "modality": "F2F",
                 "capacity": "40",
                 "year": "",
@@ -1271,7 +1241,6 @@ const scheduleData = {
             "startTime": "09:00 AM",
             "endTime": "10:15 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1288,7 +1257,6 @@ const scheduleData = {
             "startTime": "01:15 PM",
             "endTime": "04:00 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1321,7 +1289,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1338,7 +1305,6 @@ const scheduleData = {
             "startTime": "09:00 AM",
             "endTime": "11:00 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1355,7 +1321,6 @@ const scheduleData = {
             "startTime": "09:00 AM",
             "endTime": "11:00 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1372,7 +1337,6 @@ const scheduleData = {
             "startTime": "03:30 PM",
             "endTime": "06:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1382,6 +1346,22 @@ const scheduleData = {
                 "capacity": "16",
                 "year": "",
                 "credit": "4"
+            }
+        },
+        {
+            "title": "Access to Justice: Law Reform",
+            "startTime": "04:10 PM",
+            "endTime": "05:50 PM",
+            "daysOfWeek": [
+                3
+            ],
+            "extendedProps": {
+                "instructor": "Eichenbaum, A",
+                "room": "244",
+                "modality": "F2F",
+                "capacity": "12",
+                "year": "",
+                "credit": "2"
             }
         },
         {
@@ -1470,7 +1450,6 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1587,7 +1566,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {
@@ -1670,7 +1648,6 @@ const scheduleData = {
             "startTime": "04:10 PM",
             "endTime": "05:50 PM",
             "daysOfWeek": [
-                2,
                 4
             ],
             "extendedProps": {

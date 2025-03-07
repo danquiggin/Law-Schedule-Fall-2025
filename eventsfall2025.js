@@ -142,7 +142,7 @@ const scheduleData = {
                 3
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "246",
                 "modality": "F2F",
                 "capacity": "30",
@@ -158,7 +158,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "245",
                 "modality": "F2F",
                 "capacity": "30",
@@ -174,7 +174,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "345",
                 "modality": "F2F",
                 "capacity": "30",
@@ -190,7 +190,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "246",
                 "modality": "F2F",
                 "capacity": "30",
@@ -206,7 +206,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "30",
@@ -222,7 +222,7 @@ const scheduleData = {
                 2
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "244",
                 "modality": "F2F",
                 "capacity": "25",
@@ -238,7 +238,7 @@ const scheduleData = {
                 3
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "246",
                 "modality": "F2F",
                 "capacity": "30",
@@ -254,7 +254,7 @@ const scheduleData = {
                 3
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "30",
@@ -338,7 +338,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "538",
                 "modality": "F2F",
                 "capacity": "25",
@@ -354,7 +354,7 @@ const scheduleData = {
                 2
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "245",
                 "modality": "F2F",
                 "capacity": "25",
@@ -371,7 +371,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "241",
                 "modality": "F2F",
                 "capacity": "25",
@@ -388,7 +388,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "242",
                 "modality": "F2F",
                 "capacity": "25",
@@ -405,7 +405,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "342",
                 "modality": "F2F",
                 "capacity": "25",
@@ -421,7 +421,7 @@ const scheduleData = {
                 2
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "246",
                 "modality": "F2F",
                 "capacity": "25",
@@ -438,7 +438,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "245",
                 "modality": "F2F",
                 "capacity": "25",
@@ -455,7 +455,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "345",
                 "modality": "F2F",
                 "capacity": "25",
@@ -472,7 +472,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "244",
                 "modality": "F2F",
                 "capacity": "25",
@@ -489,7 +489,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "25",
@@ -856,6 +856,22 @@ const scheduleData = {
                 "room": "245",
                 "modality": "B",
                 "capacity": "50",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
+            "title": "Security Interests and Liens",
+            "startTime": "06:00 PM",
+            "endTime": "08:45 AM",
+            "daysOfWeek": [
+                3
+            ],
+            "extendedProps": {
+                "instructor": "Stephens, C",
+                "room": "Online",
+                "modality": "OS",
+                "capacity": "75",
                 "year": "",
                 "credit": "3"
             }
@@ -1245,7 +1261,7 @@ const scheduleData = {
                 3
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "242",
                 "modality": "F2F",
                 "capacity": "40",
@@ -1278,7 +1294,7 @@ const scheduleData = {
                 1
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "345",
                 "modality": "F2F",
                 "capacity": "40",
@@ -1365,6 +1381,22 @@ const scheduleData = {
                 "capacity": "30",
                 "year": "LLM",
                 "credit": "3"
+            }
+        },
+        {
+            "title": "Capital Defenders Clinic",
+            "startTime": "04:00 PM",
+            "endTime": "07:05 PM",
+            "daysOfWeek": [
+                2
+            ],
+            "extendedProps": {
+                "instructor": "Moore, J & Delage, T",
+                "room": "0",
+                "modality": "F2F",
+                "capacity": "6",
+                "year": "",
+                "credit": "4"
             }
         },
         {
@@ -1614,6 +1646,22 @@ const scheduleData = {
             }
         },
         {
+            "title": "Health Care Transactions Practicum",
+            "startTime": "02:45 PM",
+            "endTime": "05:15 PM",
+            "daysOfWeek": [
+                2
+            ],
+            "extendedProps": {
+                "instructor": "Westbrook, K & Welch, S",
+                "room": "0",
+                "modality": "F2F",
+                "capacity": "12",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
             "title": "AI Law & Policy",
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
@@ -1648,13 +1696,29 @@ const scheduleData = {
         },
         {
             "title": "Externship Seminar",
+            "startTime": "04:10 PM",
+            "endTime": "05:50 PM",
+            "daysOfWeek": [
+                4
+            ],
+            "extendedProps": {
+                "instructor": "TBA",
+                "room": "Online",
+                "modality": "OS",
+                "capacity": "15",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Externship Seminar",
             "startTime": "10:00 AM",
             "endTime": "11:40 AM",
             "daysOfWeek": [
                 5
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "244",
                 "modality": "F2F",
                 "capacity": "16",
@@ -1664,6 +1728,19 @@ const scheduleData = {
         }
     ],
     "online_classes": [
+        {
+            "title": "Basic Bankruptcy",
+            "startTime": "N/A",
+            "endTime": "N/A",
+            "extendedProps": {
+                "instructor": "Williams, J",
+                "room": "Online",
+                "modality": "OA, WR",
+                "capacity": "35",
+                "year": "",
+                "credit": "3"
+            }
+        },
         {
             "title": "Security Interests and Liens",
             "startTime": "06:00 PM",
@@ -1681,33 +1758,27 @@ const scheduleData = {
             }
         },
         {
-            "title": "Capital Defenders Clinic",
-            "startTime": "04:00 PM",
-            "endTime": "07:05 PM",
-            "daysOfWeek": [
-                2
-            ],
+            "title": "Remedies",
+            "startTime": "N/A",
+            "endTime": "N/A",
             "extendedProps": {
-                "instructor": "Moore, J & Delage, T",
+                "instructor": "Williams, J",
                 "room": "Online",
-                "modality": "F2F",
-                "capacity": "6",
+                "modality": "OA",
+                "capacity": "35",
                 "year": "",
-                "credit": "4"
+                "credit": "3"
             }
         },
         {
-            "title": "Health Care Transactions Practicum",
-            "startTime": "02:45 PM",
-            "endTime": "05:15 PM",
-            "daysOfWeek": [
-                2
-            ],
+            "title": "White Collar Crime",
+            "startTime": "N/A",
+            "endTime": "N/A",
             "extendedProps": {
-                "instructor": "Westbrook, K & Welch, S",
+                "instructor": "Pearce, B",
                 "room": "Online",
-                "modality": "F2F",
-                "capacity": "12",
+                "modality": "OA",
+                "capacity": "35",
                 "year": "",
                 "credit": "3"
             }
@@ -1720,12 +1791,146 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "",
+                "instructor": "TBA",
                 "room": "Online",
                 "modality": "OS",
                 "capacity": "15",
                 "year": "",
                 "credit": "1"
+            }
+        }
+    ],
+    "tbd_classes": [
+        {
+            "title": "Law Review",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F, WR",
+                "capacity": "70",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Moot Court I",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "30",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Moot Court II",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "30",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Moot Court III",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "30",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Moot Court IV",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "30",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Trial Advocacy I",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "10",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Trial Advocacy II",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "10",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Trial Advocacy III",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "10",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Trial Advocacy IV",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "10",
+                "year": "",
+                "credit": "1"
+            }
+        },
+        {
+            "title": "Mediation Clinic I (see Note 3)",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "17",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
+            "title": "Immigration Clinic II",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "5",
+                "year": "",
+                "credit": "4-6 (var)"
+            }
+        },
+        {
+            "title": "Externship - Fall",
+            "extendedProps": {
+                "instructor": "TBD",
+                "room": "TBD",
+                "modality": "F2F",
+                "capacity": "60",
+                "year": "",
+                "credit": "2-6 (var)"
             }
         }
     ]

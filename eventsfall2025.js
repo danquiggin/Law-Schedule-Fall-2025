@@ -1,7 +1,7 @@
 const scheduleData = {
     "events": [
         {
-            "title": "Civ Pro: Federalism & Const. Iss.",
+            "title": "Civ Pro: Federal Rules",
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
@@ -17,7 +17,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "Civ Pro: Federalism & Const. Iss.",
+            "title": "Civ Pro: Federal Rules",
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
             "daysOfWeek": [
@@ -34,7 +34,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "Civ Pro: Federalism & Const. Iss.",
+            "title": "Civ Pro: Federal Rules",
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
             "daysOfWeek": [
@@ -51,7 +51,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "Civ Pro: Federalism & Const. Iss.",
+            "title": "Civ Pro: Federal Rules",
             "startTime": "01:15 PM",
             "endTime": "02:30 PM",
             "daysOfWeek": [
@@ -94,7 +94,7 @@ const scheduleData = {
             ],
             "extendedProps": {
                 "instructor": "Hill, J",
-                "room": "242",
+                "room": "342",
                 "modality": "F2F",
                 "capacity": "60",
                 "year": "1",
@@ -111,7 +111,7 @@ const scheduleData = {
             ],
             "extendedProps": {
                 "instructor": "Kerew, K",
-                "room": "342",
+                "room": "242",
                 "modality": "F2F",
                 "capacity": "60",
                 "year": "1",
@@ -143,7 +143,7 @@ const scheduleData = {
             ],
             "extendedProps": {
                 "instructor": "",
-                "room": "345",
+                "room": "246",
                 "modality": "F2F",
                 "capacity": "30",
                 "year": "1",
@@ -281,8 +281,8 @@ const scheduleData = {
         },
         {
             "title": "Torts",
-            "startTime": "06:00 PM",
-            "endTime": "08:45 AM",
+            "startTime": "05:30 PM",
+            "endTime": "09:00 AM",
             "daysOfWeek": [
                 2
             ],
@@ -536,14 +536,14 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                4
+                3
             ],
             "extendedProps": {
                 "instructor": "Segall, E",
                 "room": "341",
                 "modality": "F2F",
                 "capacity": "70",
-                "year": "",
+                "year": "2LP",
                 "credit": "3"
             }
         },
@@ -630,7 +630,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "The Client Relationship (see Note X in Overview Tab)",
+            "title": "The Client Relationship (see Note 1)",
             "startTime": "02:45 PM",
             "endTime": "05:30 PM",
             "daysOfWeek": [
@@ -663,7 +663,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "Administrative Law",
+            "title": "Administrative Law (see Note 4)",
             "startTime": "10:30 AM",
             "endTime": "11:45 AM",
             "daysOfWeek": [
@@ -673,10 +673,10 @@ const scheduleData = {
             "extendedProps": {
                 "instructor": "Whelan, A",
                 "room": "246",
-                "modality": "F2F",
+                "modality": "B",
                 "capacity": "40",
                 "year": "",
-                "credit": "3"
+                "credit": "4"
             }
         },
         {
@@ -697,6 +697,38 @@ const scheduleData = {
             }
         },
         {
+            "title": "Advanced Trial Advocacy: Jury Selection",
+            "startTime": "06:00 PM",
+            "endTime": "07:40 PM",
+            "daysOfWeek": [
+                4
+            ],
+            "extendedProps": {
+                "instructor": "Timmons, C",
+                "room": "246",
+                "modality": "F2F",
+                "capacity": "12",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
+            "title": "Advanced Legal Writing",
+            "startTime": "04:10 PM",
+            "endTime": "05:50 PM",
+            "daysOfWeek": [
+                3
+            ],
+            "extendedProps": {
+                "instructor": "Bogartz, A",
+                "room": "246",
+                "modality": "F2F",
+                "capacity": "12",
+                "year": "",
+                "credit": "2"
+            }
+        },
+        {
             "title": "Animal Law",
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
@@ -714,17 +746,17 @@ const scheduleData = {
         },
         {
             "title": "Basic Federal Taxation I",
-            "startTime": "02:45 PM",
-            "endTime": "04:00 PM",
+            "startTime": "01:15 PM",
+            "endTime": "02:30 PM",
             "daysOfWeek": [
                 1,
                 3
             ],
             "extendedProps": {
                 "instructor": "Donaldson, S",
-                "room": "341",
+                "room": "345",
                 "modality": "F2F",
-                "capacity": "80",
+                "capacity": "50",
                 "year": "",
                 "credit": "3"
             }
@@ -928,17 +960,17 @@ const scheduleData = {
         },
         {
             "title": "Family Law",
-            "startTime": "02:45 PM",
-            "endTime": "04:00 PM",
+            "startTime": "09:00 AM",
+            "endTime": "10:15 AM",
             "daysOfWeek": [
                 1,
                 3
             ],
             "extendedProps": {
                 "instructor": "Heled, Y",
-                "room": "242",
+                "room": "345",
                 "modality": "B",
-                "capacity": "60",
+                "capacity": "50",
                 "year": "",
                 "credit": "4"
             }
@@ -946,10 +978,9 @@ const scheduleData = {
         {
             "title": "Georgia Practice & Procedure",
             "startTime": "02:45 PM",
-            "endTime": "04:00 PM",
+            "endTime": "05:30 PM",
             "daysOfWeek": [
-                2,
-                4
+                2
             ],
             "extendedProps": {
                 "instructor": "Atkinson, A",
@@ -978,15 +1009,14 @@ const scheduleData = {
         },
         {
             "title": "Health Law: Quality & Access",
-            "startTime": "01:15 PM",
-            "endTime": "02:30 PM",
+            "startTime": "06:00 PM",
+            "endTime": "08:45 AM",
             "daysOfWeek": [
-                1,
-                3
+                4
             ],
             "extendedProps": {
-                "instructor": "",
-                "room": "345",
+                "instructor": "Johnson, S",
+                "room": "245",
                 "modality": "F2F",
                 "capacity": "40",
                 "year": "",
@@ -1059,9 +1089,26 @@ const scheduleData = {
             }
         },
         {
+            "title": "International Criminal Law",
+            "startTime": "02:45 PM",
+            "endTime": "04:00 PM",
+            "daysOfWeek": [
+                1,
+                3
+            ],
+            "extendedProps": {
+                "instructor": "Sekhon, N",
+                "room": "345",
+                "modality": "B",
+                "capacity": "50",
+                "year": "",
+                "credit": "3"
+            }
+        },
+        {
             "title": "Wildlife Law",
-            "startTime": "09:00 AM",
-            "endTime": "10:40 AM",
+            "startTime": "09:30 AM",
+            "endTime": "11:10 AM",
             "daysOfWeek": [
                 1
             ],
@@ -1103,15 +1150,15 @@ const scheduleData = {
                 "instructor": "Vagle, J",
                 "room": "245",
                 "modality": "F2F",
-                "capacity": "50",
+                "capacity": "24",
                 "year": "",
                 "credit": "3"
             }
         },
         {
             "title": "Legal Innovation",
-            "startTime": "01:45 PM",
-            "endTime": "03:25 PM",
+            "startTime": "10:00 AM",
+            "endTime": "11:45 AM",
             "daysOfWeek": [
                 1
             ],
@@ -1158,15 +1205,14 @@ const scheduleData = {
         },
         {
             "title": "Patent Law",
-            "startTime": "10:30 AM",
-            "endTime": "11:45 AM",
+            "startTime": "01:15 PM",
+            "endTime": "02:55 PM",
             "daysOfWeek": [
-                1,
-                3
+                1
             ],
             "extendedProps": {
                 "instructor": "Heled, Y",
-                "room": "345",
+                "room": "245",
                 "modality": "B",
                 "capacity": "50",
                 "year": "",
@@ -1182,7 +1228,7 @@ const scheduleData = {
                 3
             ],
             "extendedProps": {
-                "instructor": "Pope, D",
+                "instructor": "Washington, T & Saito, N",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "40",
@@ -1330,7 +1376,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "Scott, C",
+                "instructor": "Scott, C & Cole, A",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "16",
@@ -1347,7 +1393,7 @@ const scheduleData = {
                 4
             ],
             "extendedProps": {
-                "instructor": "TBA",
+                "instructor": "Scott, C & Cole, A",
                 "room": "346",
                 "modality": "F2F",
                 "capacity": "16",
@@ -1358,15 +1404,15 @@ const scheduleData = {
         {
             "title": "Olmstead Disability Rights Clinic",
             "startTime": "03:30 PM",
-            "endTime": "06:50 PM",
+            "endTime": "05:30 PM",
             "daysOfWeek": [
                 4
             ],
             "extendedProps": {
-                "instructor": "Goico, S",
-                "room": "347",
+                "instructor": "Goico, S & Kelsey, S",
+                "room": "147",
                 "modality": "F2F",
-                "capacity": "16",
+                "capacity": "8",
                 "year": "",
                 "credit": "4"
             }
@@ -1473,11 +1519,11 @@ const scheduleData = {
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
-                4
+                3
             ],
             "extendedProps": {
                 "instructor": "Charney, R",
-                "room": "344",
+                "room": "244",
                 "modality": "F2F",
                 "capacity": "15",
                 "year": "",
@@ -1501,7 +1547,7 @@ const scheduleData = {
             }
         },
         {
-            "title": "Civil Pre-Trial Litigation (see Note X in Overview Tab)",
+            "title": "Civil Pre-Trial Litigation (see Note 2)",
             "startTime": "06:00 PM",
             "endTime": "08:45 AM",
             "daysOfWeek": [
@@ -1636,13 +1682,13 @@ const scheduleData = {
         },
         {
             "title": "Capital Defenders Clinic",
-            "startTime": "03:30 PM",
-            "endTime": "06:50 PM",
+            "startTime": "04:00 PM",
+            "endTime": "07:05 PM",
             "daysOfWeek": [
                 2
             ],
             "extendedProps": {
-                "instructor": "Moore, J",
+                "instructor": "Moore, J & Delage, T",
                 "room": "Online",
                 "modality": "F2F",
                 "capacity": "6",
